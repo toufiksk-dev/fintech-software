@@ -70,5 +70,3 @@ It’s built with **modern architecture**, **clean UI**, and **modular backend d
 | **Authentication** | JWT, Cookie Sessions, WhatsApp OTP |
 ---
 
-## 📁 Folder Structure
-
